@@ -1,0 +1,22 @@
+body {
+    background-color: maroon;
+    display: flex;
+    justify-content: center;
+  }
+  
+.main {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 1rem;
+    max-width: 90%;
+    min-height: 900px;
+}
+  
+.introduction {
+    margin: 2em;
+    padding: 2rem;
+    background-color: white;
+    color: black;
+}
